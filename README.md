@@ -1,6 +1,6 @@
 
 <h1 align="center">Hey Hi 👋, I'm Manikandan Ravi 👋</h1>
-<h3 align="center">A passionate Automation & DevOps Engineer</h3>
+<h3 align="center">A passionate SDET(Automation) & DevOps Engineer</h3>
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=rmani2005&label=Profile%20views&color=0e75b6&style=flat alt="rmani2005" /> </p>
 
